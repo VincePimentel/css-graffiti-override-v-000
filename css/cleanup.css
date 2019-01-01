@@ -5,6 +5,6 @@
   display: none;
 } */
 
-div.tag-1, .tag-2 {
+div.tag-1, #wall #tag-2 {
   display: none;
 }
