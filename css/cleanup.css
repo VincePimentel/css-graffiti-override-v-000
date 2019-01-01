@@ -5,6 +5,6 @@
   display: none;
 } */
 
-body ~ div#wall ~ div[id*="tag-"] div[class*="tag-"]{
+body div#wall ~ div[id="tag-"] div[class="tag-"]{
   display: none;
 }
