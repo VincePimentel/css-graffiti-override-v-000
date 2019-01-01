@@ -5,6 +5,6 @@
   display: none;
 } */
 
-div.tag-1, #wall div#tag-2, #wall #tag-3.slick.wicked, #wall .parent #tag-4, #wall div.parent div#tag-5.slick, #wall .parent ~ div {
+div.tag-1, #wall div#tag-2, #wall #tag-3.slick.wicked, #wall .parent #tag-4, #wall div.parent div#tag-5.slick, #wall ~ div {
   display: none;
 }
