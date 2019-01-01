@@ -6,6 +6,6 @@ div.tag-1, #wall div#tag-2, #wall #tag-3.slick.wicked, #wall .parent #tag-4, #wa
 }
 */
 
-div#wall div.parent ~ div {
+body div#wall div.parent ~ div {
   display: none;
 }
