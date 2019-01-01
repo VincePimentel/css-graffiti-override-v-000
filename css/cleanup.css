@@ -6,6 +6,6 @@
 } */
 
 
-div#wall ~ div[id="tag-"] {
+div#wall ~ div[id^="tag-"] {
   display: none;
 }
